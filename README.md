@@ -34,7 +34,7 @@ After that, in NSSM:
 
 ---
 
-ChikaLauncher 是一个能使所有程序都能绑定到 NSSM 中并可在特定目录中打开的实用程序。
+ChikaLauncher 是一个能使所有程序都能绑定到 [NSSM](https://nssm.cc/) 中并可在特定目录中打开的实用程序。
 
 ## 使用范围
 

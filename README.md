@@ -1,6 +1,6 @@
 # ChikaLauncher
 
-A program that enables all programs to bind to NSSM and locate a specific directory to open.
+ChikaLauncher is a program that enables all programs to bind to NSSM and locate a specific directory to open.
 
 ## Scope of Use
 
@@ -34,7 +34,7 @@ After that, in NSSM:
 
 ---
 
-该程序使所有程序都能绑定到 NSSM 中，并可在特定目录中打开程序。
+ChikaLauncher 是一个能使所有程序都能绑定到 NSSM 中并可在特定目录中打开的实用程序。
 
 ## 使用范围
 
